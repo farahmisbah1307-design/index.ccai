@@ -23,3 +23,4 @@ This project was developed as part of an academic assignment to demonstrate impl
 
 ## Status
 Prototype version (UI-focused implementation)
+.
